@@ -1,1 +1,5 @@
-a
+# Ignorar todos os arquivos .txt
+*.txt
+
+# Exceção: incluir "arquivo_incluido.txt"
+!arquivo_incluido.txt
